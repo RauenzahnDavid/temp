@@ -1,0 +1,3 @@
+Hallway 1; Hallway 2, Meeting Room, Cell Hall, Cafeteria; HALLWAY
+Hallway 2; Yard, Hallway 3, Hallway 1, Gym; HALLWAY
+Yard; Library, Hallway 2; OUTSIDE
